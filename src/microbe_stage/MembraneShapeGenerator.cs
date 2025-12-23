@@ -75,7 +75,7 @@ public class MembraneShapeGenerator
         }
 
         // Make the length longer to guarantee that everything fits easily inside the square
-        cellDimensions *= 100;
+        cellDimensions *= 1;
 
         startingBuffer.Clear();
 
